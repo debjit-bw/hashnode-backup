@@ -1,4 +1,4 @@
-## Playing around with DALL·E 2
+# Playing around with DALL·E 2
 
 # Intro
 
