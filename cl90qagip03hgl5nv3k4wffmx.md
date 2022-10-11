@@ -1,1 +1,100 @@
-IyMgNiBsZXNzb25zIGZyb20gY29kaW5nIGFuZCBkZXBsb3lpbmcgbXkgcG9ydGZvbGlvIGluIHVuZGVyIDMwIG1pbnMKCiMgVEw7RFIKCkdvIGxvb2s6IFtkZWJqaXQuZGV2XShodHRwczovL2RlYmppdC5kZXYpICguIOKdmyDhtJcg4p2bLikKCiMgV2h5IHRoZSB1cmdlbmN5PwoKQWZ0ZXIgYnV5aW5nIHRoZSBkb21haW4sIEkgaW5pdGlhbGx5IHJlZGlyZWN0ZWQgaXQgdG8gYSBxdWljayBhbmQgZWFzeSBXaXggc2l0ZS4gU2luY2UgSSB3YXMgb24gdGhlIGZyZWUgcGxhbiwgdGhlcmUgd2FzIHRoZSBXaXggYnJhbmRpbmcgYXQgdGhlIHRvcC4gV29yc2UsIHRoZXkgZGlkbid0IGxldCBtZSBob29rIHVwIG15IGN1c3RvbSBkb21haW4uCgpOb3cgSSBhbHdheXMgaGF2ZSBhIGJ1bmNoIG9mIHBsYW5uZWQgcHJvamVjdHMgYW5kIGxlYXJuaW5nIG1pc3Npb25zIGdvaW5nIG9uLiBJIHdhcyBidXN5IHdpdGggdHdvIG90aGVyIHByb2plY3RzIHdoZW4gSSBzYXcgYSBtaWxkIGluY3JlYXNlIG9mIHZpc2l0b3JzIHRvIG15IFtkZWJqaXQuZGV2IGhvbWVwYWdlXShodHRwczovL2RlYmppdC5kZXYpCgpMYXN0IHdlZWsgSSBwdXQgdXAgbXkgZG9tYWluJ3MgbGluayB1cCBvbiBhIGJ1bmNoIG9mIHNvY2lhbHMsIGFuZCBJIHNhdyBhIG1pbGQgaW5jcmVhc2UgaW4gdGhlIHRyYWZmaWMuIFRoZSAzMDIgcmVkaXJlY3QgY29tYmluZWQgd2l0aCBpdCB0YWtpbmcgdmlzaXRvcnMgb3V0c2lkZSBteSBkb21haW4gd2FzIGdldHRpbmcgdG9vIG11Y2ggdG8gaGFuZGxlLgoKIyBJbml0aWFsIHNjcmFtYmxlCgpNeSBpbml0aWFsIHBsYW4gd2FzIHRvIGJ1aWxkIGEgd2hvbGUgd2ViIGFwcCB1c2luZyBSZWFjdC4gQnV0IGFzIHRoZSBzaXR1YXRpb25zIHVuZm9sZGVkLCBJIHdhcyB3aWxsaW5nIHRvIHNldHRsZSBmb3IgYW5vdGhlciBxdWljayBhbmQgZWFzeSBzb2x1dGlvbi4gSSBkZWNpZGVkIHRvIGdvIHdpdGggY2xhc3NpYyBIVE1MLCBDU1MsIEpTLiBUaGV5IG5ldmVyIGRpc2FwcG9pbnQuCgpJIGRpZG4ndCBoYXZlIHRpbWUgdG8gYnVpbGQgYSB3aG9sZSBzaXRlIGZyb20gc2NyYXRjaC4gSSB3aWxsIGRvIHRoYXQsIGJ1dCBsYXRlci4gV2hlbiBzb21lIG9mIG15IGN1cnJlbnQgcHJpb3JpdGllcyBhcmUgZG9uZSBhbmQgZHVzdGVkLiBJIHJ1bW1hZ2VkIHRocm91Z2ggc29tZSB0ZW1wbGF0ZSBzaXRlcyBvbiBHaXRIdWIuIFRoZXkgd2VyZSBlaXRoZXIgZGlzYXBwb2ludGluZywgaGFkIGJhZCBkZXNpZ24sIG9yIHRoZSBjb2RlIHdhcyBub3QgZnJlZS4KCkkgdGhvdWdodCBhYm91dCB1c2luZyBGaWdtYSBvciBDYW52YSBhbmQgdGhlbiBleHBvcnRpbmcgaXQgdG8gSFRNTC4gQnV0IHRoYXQgd29uJ3QgYmUgcmVzcG9uc2l2ZS4gSSBkZWNpZGVkIHRvIHVzZSBzb21lIFdZU0lXWUcgaHRtbCBlZGl0b3IgdG8gZG8gaXQgcXVpY2ssIGFuZCB3YXMgYWxtb3N0IGFib3V0IHRvIHN0YXJ0LCB1bnRpbC4uLgoKIyBJIHNlYXJjaGVkIG9uIFlvdVR1YmUKCkFuZCBbdGhpcyB2aWRlb10oaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11LVJMdV84a3dBMCkgY2FtZSB1cC4gQXMgeW91IGNhbiBzZWUsIHRoZSB0aXRsZSBpcyBgSG93IHRvIENyZWF0ZSAmIEhvc3QgYSBQb3J0Zm9saW8gaW4gMTAgbWludXRlcyB3aXRoIEdpdEh1YiBwYWdlcyFgIGFuZCB0aGUgdmlkZW8gZHVyYXRpb24gaXMgYDEzK2AgbWludXRlcy4gU28sIHNjYW0uCgpOb3QgcmVhbGx5LCBpdCBnYXZlIG1lIHRoZSBwZXJmZWN0IGlkZWEgYW5kIHJlc291cmNlcyB0byB3b3JrIHdpdGguIFtodG1sNXVwLm5ldF0oaHR0cHM6Ly9odG1sNXVwLm5ldC8pIGhhcyBhIHZhcmlldHkgb2YgdmVyeSBiYXNpYyB0ZW1wbGF0ZXMsIGFuZCBJIHRvdGFsbHkgZm9yZ290IGFib3V0IFtHaXRIdWIgUGFnZXNdKGh0dHBzOi8vcGFnZXMuZ2l0aHViLmNvbS8pLiBFbHNlLCBJIHdvdWxkIGhhdmUgZ29uZSBmb3Igc29tZXRoaW5nIGxpa2UgRmlyZWJhc2UgSG9zdGluZywgYnV0IHdpdGggR2l0SHViIHBhZ2VzLCBhIGxvdCBvZiBidXJkZW4gd2FzIHJlZHVjZWQuCgojIFNldHRsaW5nIHdpdGggdGhlIHRlY2hub2xvZ2llcwoKKiBUZWNoOiBTaW1wbGUgSFRNTCwgQ1NTLCBKUwoqIFRlbXBsYXRlOiBbU3BlY3RyYWxdKGh0dHBzOi8vaHRtbDV1cC5uZXQvc3BlY3RyYWwpCiogSG9zdGluZzogR2l0SHViIFBhZ2VzCgojIEVkaXRpbmcgdGhlIHRlbXBsYXRlCgpOb3cgY29tZXMgdGhlIG1haW4gcGFydC4gV2hhdCBJIHdhbnQgbXkgcG9ydGZvbGlvIHRvIGxvb2sgbGlrZS4gSSB3YW50IG15IGxhdGVzdCBibG9nIHBvc3Qgb3IgbWFqb3IgcHJvamVjdCB0byB0YWtlIHRoZSBjZW50ZXIgc3RhZ2UuIFNvIHRoZSBtYWluIHBhZ2UgYmFja2dyb3VuZCBhbmQgaW1hZ2UgbmVlZHMgdG8gYmUgY2hhbmdlZCB0byB0aGF0LiBGb3IgdGhpcywgSSB3YW50ZWQgdG8gdXNlIHRoZSBEQUxMwrdFIDIgcG9zdC4gQnV0IHRoYXQgaGFzbid0IGJlZW4gcHVibGlzaGVkIGF0IHRoZSB0aW1lIG9mIHdyaXRpbmcgdGhpcy4gU28gSSB3aWxsIGp1c3QgZ28gd2l0aCB0aGUgW3ZlcnkgZmlyc3QgYmxvZ10oaHR0cHM6Ly9ibG9nLmRlYmppdC5kZXYvc28taS1yZWFsbHktYmVnaW4td3JpdGluZykuCgojIFRoaXMgaXMgdGltZSB0YWtpbmcKCldyaXRpbmcgZGV0YWlscyBhYm91dCBldmVyeSBzaW5nbGUgdGhpbmcgSSBkaWQgdG8gbWFrZSB0aGUgc2l0ZSBpcyBib3RoIHRpbWUgY29uc3VtaW5nLCBhbmQgYm9yaW5nLiBSYXRoZXIsIEknZCBsaXN0IG91dCB3aGF0IEkgbGVhcm50IGZyb20gdGhlIGV4cGVyaWVuY2UuIFNvcnQgb2YgYSBsZXNzb25zIGpvdXJuYWwsIHdoYXQgdGhpcyBibG9nIGlzIGFsd2F5cyBtZWFudCB0byBiZS4KCiMjIDEuIE5ldmVyIHN0YXJ0IGZyb20gc2NyYXRjaAoKQXMgYSBkZXZlbG9wZXIsIHdoZW4geW91IGFyZSBzZWFyY2hpbmcgZm9yIGEgdGVtcGxhdGUsIGFuZCBhcmVuJ3QgZmluZGluZyBvbmUsIHlvdSB3aWxsIGJlIHRlbXB0ZWQgdG8gd3JpdGUgdGhlIHdob2xlIHByb2plY3QgZnJvbSBzY3JhdGNoLiBOZXZlciBsaXN0ZW4gdG8gaXQuIEV2ZW4gaWYgc29tZSBwcm9qZWN0IGlzIG1pbGRseSB+IGJhcmVseSBzaW1pbGFyLCBmb3JrL2NvcHkgaXQgYW5kIGdvIGZyb20gdGhlcmUuIERvbid0IHN0ZWFsIGNvZGUuIE9ubHkgY29weSBpZiBpdCdzIG9wZW4gc291cmNlZCwgYW5kIGdpdmUgdGhlIHByb3BlciBhdHRyaWJ1dGlvbnMuCgpUaGlzIG1ha2VzIHRoaW5ncyBtdWNoIGZhc3RlciwgZXNwZWNpYWxseSBmb3IgYSBzaXRlLiBUaGF0J3MgYmVjYXVzZSB3cml0aW5nIGFuZCBwZXJmZWN0aW5nIENTUyBzdHlsZXMgb3IgSlMgYW5pbWF0aW9ucyBpcyB2ZXJ5IHRpbWUgY29uc3VtaW5nIG8gZnJhbWUgZnJvbSBpbmNlcHRpb24uIE1vZGlmeWluZyBhbiBleGlzdGluZyBzY3JpcHQgaXMgYSBsb3QgZWFzaWVyLgoKIyMgMi4gU3BlYWtpbmcgb2YgQ1NTCgpJdCdzIGEgbWVzcy4gVGhlIHNwaWRlcndlYnMgb2YgYGJlZm9yZWBzLCBgaG92ZXJgcywgYC5gICYgYD5gIG5vdGF0aW9ucyBhbmQgYW4gdW5lbmRpbmcgdGhyZWFkIG9mIGluZGVudGF0aW9ucyB3aWxsIHRha2UgYSBzZXJpb3VzIHRvbGwgb24geW91ciBtZW50YWwgaGVhbHRoIGlmIHlvdSBhcmUgbm90IGNhcmVmdWwgZW5vdWdoLgoKTm90IG9uY2UsIGFuZCBub3QganVzdCB0d2ljZSBoYXMgaXQgaGFwcGVuZWQgdG8gbWUgdGhhdCBqdXN0IGNoYW5naW5nIHBhZGRpbmcgaW4gb25lIHBsYWNlIG1lc3NlZCB1cCB0aGUgYWxpZ25tZW50IG9mIGVudGlyZSBncm91cHMgb2YgZWxlbWVudHMuIEZpbmRpbmcgd2hpY2ggcGFydGljdWxhciBDU1MgYXR0cmlidXRlIGFmZmVjdHMgd2hpY2ggbmVzdGVkIGVsZW1lbnQgaXMgYSBmZWF0IGluIGl0c2VsZi4KClNvb24sIGFmdGVyIHBsZW50eSB0cmlhbCBhbmQgZXJyb3Igb2YgZmluZGluZyBhdHRyaWJ1dGVzLCBJIGdhdmUgdXAgbWFudWFsbHkgc2VhcmNoaW5nLiBJIHNpbXBseSBvcGVuZWQgaXQgaW4gQ2hyb21lIGFuZCBkaWQgaW5zcGVjdCBlbGVtZW50cyB0byBmaW5kIG91dCB0aGUgcHJvcGVyIENTUyB0YWdzLiBJIHN0YXJ0ZWQgd3JpdGluZyBjdXN0b20gQ1NTIGFmdGVyIGdldHRpbmcgc29tZSBpZGVhIGZyb20gU3RhY2sgT3ZlcmZsb3cuCgpHZW5lcmFsbHkgSSBsZWFybiB0aGluZ3MgYXMgSSBnbywgc2VlaW5nIGNvZGVzIGFuZCB0aHJvdWdoIHRyaWFsIGFuZCBlcnJvciwgYmVmb3JlIHJlYWRpbmcgdGhlIHRlY2huaWNhbGl0aWVzIG9uIGhvdyB0aGV5IHdvcmsuIENTUyBpcyBvbmUgb2YgdGhvc2UgZmllbGRzIGluIHdoaWNoIEkgd291bGRuJ3QgcmVjb21tZW5kIHRha2luZyB0aGF0IGFwcHJvYWNoLgoKIyMgMy4gVXNlIHNlcnZpY2VzIHdoZXJlIHlvdSBjYW4gY29ubmVjdCB5b3VyIG93biBkb21haW4KClVzaW5nIHlvdXIgb3duIGRvbWFpbiBoYXMgc2V2ZXJhbCBiZW5lZml0cy4gRmlyc3QsIHlvdSBnZXQgdG8ga2VlcCBhbGwgdGhlIFNFTy4gU2Vjb25kLCB5b3UgZ2V0IHRvIHVzZSBpdCBob3dldmVyIHlvdSB3aXNoLCBjYW4gZGVwbG95IGFzIG1hbnkgcmV2aXNpb25zIGFzIG5lY2Vzc2FyeS4gVGhlIGF1dG9ub215IG9mIHVzaW5nIGEgY3VzdG9tIGRvbWFpbiBpcyBoYXJkIHRvIGNvbXBldGUgd2l0aC4KCkl0IGFsc28gYWRkcyBhdXRoZW50aWNpdHkgd2hlbiBwZW9wbGUgc2VlIHRoZSBhZGRyZXNzIGJhci4gSXQncyBlYXNpZXIgdG8gZGlzY292ZXIsIG1lbW9yYWJsZSBhbmQgYWN0cyBhcyAgeW91ciBwZXJzb25hbCBicmFuZC4gVGhhdCdzIG9uZSBvZiB0aGUgYmlnIHJlYXNvbnMgSSBkaWQgbm90IHN0YXJ0IGJsb2dnaW5nIG9uIGRldi50bywgYW5kIHRoZSBzYW1lIHJlYXNvbiBmb3Igc2hpZnRpbmcgb3ZlciBmcm9tIGEgV2l4IHNpdGUgdG8gc2ltcGxlIEhUTUwgcGFnZSBvbiBteSBvd24gZG9tYWluLgoKIyMgNC4gQ29tcHJlc3MgeW91ciBhc3NldHMKCldoZW4gSSBmaXJzdCBkZXBsb3llZCB0aGUgc2l0ZSwgaXQgZmVsdCBncmVhdC4gQnV0IHdoZW4gSSBzaGFyZWQgaXQgd2l0aCBzb21lIGZyaWVuZHMsIHRoZXkgY29tcGxhaW5lZCB0aGF0IGl0IHdhcyB0YWtpbmcgYW4gZXh0cmVtZWx5IGxvbmcgdGltZSB0byBsb2FkLiBBZ2FpbiwgdGhpcyBwcm9ibGVtIGRpZG4ndCBoYXBwZW4gdG8gbWUuLi51bnRpbCBJIHZpc2l0ZWQgdGhlIHNpdGUgaW4gYW4gaW5jb2duaXRvIHRhYi4KCk9uZSBvZiB0aGUgaW1hZ2VzIEkgdXNlZCBvbiB0aGUgYmFubmVycyB3YXMgMS43OCBNQiBpbiBzaXplLgoKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NDcyNzE5Mjk0MS9COHRFZm53RHIucG5nIGFsaWduPSJsZWZ0IikKCkkgZGlkbid0IGZlZWwgdGhlIGV4dHJhIGxvYWQgdGltZSBiZWNhdXNlIGl0IHdhcyBlaXRoZXIgbG9hZGluZyBmcm9tIGxvY2FsLCBvciBDaHJvbWUgY2FjaGVkIGl0IG9uIGZpcnN0IGxvYWQuIFRoZXNlIGtpbmRzIG9mIGhpZGRlbiBib3R0bGVuZWNrcyBjYW4gbGVhdmUgYSBiYWQgaW1wcmVzc2lvbiBvbiBzaXRlIHZpc2l0b3JzIGFuZCBjYW4gYWZmZWN0IHlvdXIgcGFnZSByYW5raW5ncyBvbiBzZWFyY2ggZW5naW5lcy4KCiMjIDUuIExlc3MgZGVzaWduIGlzIG1vcmUgZGVzaWduCgpJIGFtIG5vdCBhIGRlc2lnbmVyLiBGYXIgZnJvbSwgaW4gZmFjdC4gQnV0IG9mIGNvdXJzZSBJIGNhbiBoYXZlIGFuIG9waW5pb24gYWJvdXQgaXQgb24gdGhlIGludGVybmV0Lu+8iO+4tl7vuLbvvIkKClRoZSBpbml0aWFsIHRlbXBsYXRlIGhhZCBicmlnaHQgY29sb3JzIGFuZCBzZXZlcmFsIGVsZW1lbnRzIGNsdXR0ZXJpbmcgdGhlIHZpZXdwb3J0LiBPbmNlIEkgY2hhbmdlZCBlbGVtZW50cyBpbnRvIGRhcmsgc2hhZGVzIGFuZCByZW1vdmVkIHRoZSBleHRyYSBjbHV0dGVyLCB0aGluZ3MgYmVnYW4gdG8gbG9vayBtdWNoIGJldHRlci4KClRoZSBhcnQgb2YgZGVzaWduIGlzbid0IHdoYXQgbW9yZSB0byBhZGQuIEl0J3Mgb2Z0ZW4gZmlndXJpbmcgb3V0IGV2ZXJ5dGhpbmcgeW91IGNhbiByZW1vdmUgdG8ga2VlcCBvbmx5IHRoZSB0aGluZ3MgeW91IGNhcmUgYWJvdXQgdGhlIG1vc3QuCgpTcGVha2luZyBvZiBkZXNpZ24sIGRvbid0IGlnbm9yZSBtb2JpbGUgdmlzaXRvcnMgdG8geW91ciBzaXRlLiBLZWVwIGl0IHJlc3BvbnNpdmUgc28gdGhhdCBpdCBhZGFwdHMgdG8gbGFwdG9wIGFuZCBtb2JpbGUgc2NyZWVucy4gV2UgaGF2ZSBiZWNvbWUgbW9iaWxlLWZpcnN0LCBhbmQgZXZlbiBHb29nbGUgZGVtb3RlcyBzaXRlcyBvbiBtb2JpbGUgYnJvd3NlcnMgd2hpY2ggYXJlbid0IG1vYmlsZSBmcmllbmRseS4KCiMjIDYuIFNldCB1cCBDSS9DRCwgeW91IHdvbid0IHJlZ3JldCBpdAoKR2l0SHViIFBhZ2VzIGhhcyBpdHMgb3duIENJL0NEIHBpcGVsaW5lIGJ1aWx0IGluLiBTbyBJIGNhbiBjb21taXQgYW5kIHB1c2ggY2hhbmdlcywgYW5kIEdpdEh1YiB3aWxsIGF1dG9tYXRpY2FsbHkgYnVpbGQgYW5kIGRlcGxveSBteSBzaXRlLgoKSW4gY2FzZSB5b3UgYXJlIG5vdCB1c2luZyBHaXRIdWIgUGFnZXMsIGl0IHdvdWxkIGJlIGEgd29ydGh5IGludmVzdG1lbnQgdG8gY3JlYXRlIGEgQ0kvQ0QgcGlwZWxpbmUgdXNpbmcgVHJhdmlzIENJLCBDaXJjbGUgQ0kgb3Igc29tZSBvdGhlciB0b29sLiBJdCByZWR1Y2VzIHRoZSBidXJkZW4gYnkgbWFnbml0dWRlcywgYW5kIG1ha2VzIGRlcGxveW1lbnRzIGFzIGVhc3kgYXMgc2ltcGx5IGNvbW1pdHRpbmcgeW91ciBjaGFuZ2VzLgoKIyMgNy4gUmVnaXN0ZXIgeW91ciBkb21haW4gb24gdGhlIEdvb2dsZSBTZWFyY2ggQ29uc29sZQoKSXQgbWFuYWdlcyBpbmRleGluZyB0aGUgY29udGVudHMgb2YgeW91ciBwYWdlLCBhbmQgc2hvd2luZyBpdCBvbiBzZWFyY2ggcmVzdWx0cy4gSWYgeW91IHdhbnQgeW91ciBwb3J0Zm9saW8gdG8gY29tZSB1cCBmaXJzdCwgd2hlbiBwZW9wbGUgc2VhcmNoIHlvdXIgbmFtZSBvbiBHb29nbGUsIHlvdSBzaG91bGQgcmVxdWVzdCBpbmRleGluZyBvZiB5b3VyIHBhZ2Ugb24gdGhlIFtHb29nbGUgU2VhcmNoIENvbnNvbGVdKGh0dHBzOi8vc2VhcmNoLmdvb2dsZS5jb20vc2VhcmNoLWNvbnNvbGUpLgoKSXQgYWxzbyBjb21lcyB3aXRoIHNldmVyYWwgb3RoZXIgaGVscGZ1bCB0b29scywgc3VjaCBhcyBtZWFzdXJpbmcgeW91ciB3ZWJzaXRlIGxvYWRpbmcgdGltZSBhbmQgaG93IHlvdSBjYW4gaW1wcm92ZSBpdCwgZXRjLgoKIyBIYXBweSBtYWtpbmcKCkkgdGhpbmsgdGhhdCBjb3ZlcnMgbW9zdCBvZiBteSBzdHJ1Z2dsZXMgd2hpbGUgbWFraW5nIG15IHBvcnRmb2xpby4gSSB3b3VsZCBiZSBtb3JlIHRoYW4gaGFwcHkgaWYgdGhpcyBpcyB1c2VmdWwgZXZlbiB0byBqdXN0IDEgcGVyc29uLg==
+# 6 lessons from coding and deploying my portfolio in under 30 mins
+
+# TL;DR
+
+Go look: [debjit.dev](https://debjit.dev) (. ❛ ᴗ ❛.)
+
+# Why the urgency?
+
+After buying the domain, I initially redirected it to a quick and easy Wix site. Since I was on the free plan, there was the Wix branding at the top. Worse, they didn't let me hook up my custom domain.
+
+Now I always have a bunch of planned projects and learning missions going on. I was busy with two other projects when I saw a mild increase of visitors to my [debjit.dev homepage](https://debjit.dev)
+
+Last week I put up my domain's link up on a bunch of socials, and I saw a mild increase in the traffic. The 302 redirect combined with it taking visitors outside my domain was getting too much to handle.
+
+# Initial scramble
+
+My initial plan was to build a whole web app using React. But as the situations unfolded, I was willing to settle for another quick and easy solution. I decided to go with classic HTML, CSS, JS. They never disappoint.
+
+I didn't have time to build a whole site from scratch. I will do that, but later. When some of my current priorities are done and dusted. I rummaged through some template sites on GitHub. They were either disappointing, had bad design, or the code was not free.
+
+I thought about using Figma or Canva and then exporting it to HTML. But that won't be responsive. I decided to use some WYSIWYG html editor to do it quick, and was almost about to start, until...
+
+# I searched on YouTube
+
+And [this video](https://www.youtube.com/watch?v=u-RLu_8kwA0) came up. As you can see, the title is `How to Create & Host a Portfolio in 10 minutes with GitHub pages!` and the video duration is `13+` minutes. So, scam.
+
+Not really, it gave me the perfect idea and resources to work with. [html5up.net](https://html5up.net/) has a variety of very basic templates, and I totally forgot about [GitHub Pages](https://pages.github.com/). Else, I would have gone for something like Firebase Hosting, but with GitHub pages, a lot of burden was reduced.
+
+# Settling with the technologies
+
+* Tech: Simple HTML, CSS, JS
+* Template: [Spectral](https://html5up.net/spectral)
+* Hosting: GitHub Pages
+
+# Editing the template
+
+Now comes the main part. What I want my portfolio to look like. I want my latest blog post or major project to take the center stage. So the main page background and image needs to be changed to that. For this, I wanted to use the DALL·E 2 post. But that hasn't been published at the time of writing this. So I will just go with the [very first blog](https://blog.debjit.dev/so-i-really-begin-writing).
+
+# This is time taking
+
+Writing details about every single thing I did to make the site is both time consuming, and boring. Rather, I'd list out what I learnt from the experience. Sort of a lessons journal, what this blog is always meant to be.
+
+## 1. Never start from scratch
+
+As a developer, when you are searching for a template, and aren't finding one, you will be tempted to write the whole project from scratch. Never listen to it. Even if some project is mildly ~ barely similar, fork/copy it and go from there. Don't steal code. Only copy if it's open sourced, and give the proper attributions.
+
+This makes things much faster, especially for a site. That's because writing and perfecting CSS styles or JS animations is very time consuming o frame from inception. Modifying an existing script is a lot easier.
+
+## 2. Speaking of CSS
+
+It's a mess. The spiderwebs of `before`s, `hover`s, `.` & `>` notations and an unending thread of indentations will take a serious toll on your mental health if you are not careful enough.
+
+Not once, and not just twice has it happened to me that just changing padding in one place messed up the alignment of entire groups of elements. Finding which particular CSS attribute affects which nested element is a feat in itself.
+
+Soon, after plenty trial and error of finding attributes, I gave up manually searching. I simply opened it in Chrome and did inspect elements to find out the proper CSS tags. I started writing custom CSS after getting some idea from Stack Overflow.
+
+Generally I learn things as I go, seeing codes and through trial and error, before reading the technicalities on how they work. CSS is one of those fields in which I wouldn't recommend taking that approach.
+
+## 3. Use services where you can connect your own domain
+
+Using your own domain has several benefits. First, you get to keep all the SEO. Second, you get to use it however you wish, can deploy as many revisions as necessary. The autonomy of using a custom domain is hard to compete with.
+
+It also adds authenticity when people see the address bar. It's easier to discover, memorable and acts as  your personal brand. That's one of the big reasons I did not start blogging on dev.to, and the same reason for shifting over from a Wix site to simple HTML page on my own domain.
+
+## 4. Compress your assets
+
+When I first deployed the site, it felt great. But when I shared it with some friends, they complained that it was taking an extremely long time to load. Again, this problem didn't happen to me...until I visited the site in an incognito tab.
+
+One of the images I used on the banners was 1.78 MB in size.
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1664727192941/B8tEfnwDr.png align="left")
+
+I didn't feel the extra load time because it was either loading from local, or Chrome cached it on first load. These kinds of hidden bottlenecks can leave a bad impression on site visitors and can affect your page rankings on search engines.
+
+## 5. Less design is more design
+
+I am not a designer. Far from, in fact. But of course I can have an opinion about it on the internet.（︶^︶）
+
+The initial template had bright colors and several elements cluttering the viewport. Once I changed elements into dark shades and removed the extra clutter, things began to look much better.
+
+The art of design isn't what more to add. It's often figuring out everything you can remove to keep only the things you care about the most.
+
+Speaking of design, don't ignore mobile visitors to your site. Keep it responsive so that it adapts to laptop and mobile screens. We have become mobile-first, and even Google demotes sites on mobile browsers which aren't mobile friendly.
+
+## 6. Set up CI/CD, you won't regret it
+
+GitHub Pages has its own CI/CD pipeline built in. So I can commit and push changes, and GitHub will automatically build and deploy my site.
+
+In case you are not using GitHub Pages, it would be a worthy investment to create a CI/CD pipeline using Travis CI, Circle CI or some other tool. It reduces the burden by magnitudes, and makes deployments as easy as simply committing your changes.
+
+## 7. Register your domain on the Google Search Console
+
+It manages indexing the contents of your page, and showing it on search results. If you want your portfolio to come up first, when people search your name on Google, you should request indexing of your page on the [Google Search Console](https://search.google.com/search-console).
+
+It also comes with several other helpful tools, such as measuring your website loading time and how you can improve it, etc.
+
+# Happy making
+
+I think that covers most of my struggles while making my portfolio. I would be more than happy if this is useful even to just 1 person.
