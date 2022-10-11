@@ -1,4 +1,4 @@
-## DALL·E 2 and Stable Diffusion Model Architectures: A high level overview
+# DALL·E 2 and Stable Diffusion Model Architectures: A high level overview
 
 # Why was this necessary?
 
