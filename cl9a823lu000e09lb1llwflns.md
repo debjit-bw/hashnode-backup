@@ -46,4 +46,4 @@ Detecting hard changes in such data can lead to many false positives. We still h
 
 We aren't going to dive into all of them at once. We are going to start with Spotify listening history, see how we can extract useful information from the songs our users listened to. We need to think of how to derive insights from them which are fun enough for the user to see it, as well as helps us get our study done. How to gamify the system for mutual benefit.
 
-The next post will most probably be a technical post on how we use Spotify's API and audio features to determine someone's mood. Keep checking for more!
+The next in this series will most probably be a technical post on how we use Spotify's API and audio features to determine someone's mood. Keep checking for more!
