@@ -8,7 +8,7 @@ This is going to be a short update post. An in-depth analysis is coming up soon.
 
 Our generation is impatient, and also eerily privacy focused. Pretty unrelated, I know. But hear me out.
 
-In the last post, I described how we want to gain access to several data points about a person and try to understand the trendlines, with respect to their moods.
+In (the last post)[https://blog.debjit.dev/engineering-a-way-out-of-depression], I described how we want to gain access to several data points about a person and try to understand the trend lines, with respect to their moods.
 
 ## Our target audience
 
