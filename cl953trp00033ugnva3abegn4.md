@@ -12,7 +12,7 @@ When our team got down to decide which problem domain to tackle, we initially de
 
 # Why mental health?
 
-The reason is very personal, tbh.  Speaking of mentality, a teammate suggested how about we do a project on mental health. At first, it seemed extremely off-topic, because mental health seems to fall squarely within the bounds of psychology and medicine.
+The reason is very personal, tbh.  One teammate suggested we do a project on mental health. At first, it seemed extremely off-topic, because mental health seems to fall squarely within the bounds of psychology and medicine.
 
 But that's the problem, it is considered so far outside the technology domain that we don't even try to think about engineering solutions. But we like to innovate. So we took on this problem, it was a personal challenge, to come up with a useful and easy-to-use way of leveraging technology in the domain of mental health. We have friends, both on campus and off, who have struggled with depression, we wanted to help. This was our means to.
 
