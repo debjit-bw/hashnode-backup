@@ -40,7 +40,7 @@ For that, we set out to make a list of data we think (being members of our targe
 
 These have been chosen because we felt our responses in these domains change when our mood does. For example, I start listening to specific categories of songs when I'm blue. Similarly, a team member said they start neglecting their fitness and activity when they are going through something. Another member started describing how they order an excessive amount of desserts during their bad days.
 
-Detecting hard changes in such data can lead to many false positives. We still have to figure out how to combine some or all of this data to give coherent results. What score should we observe the trends of. This list hasn't been finalized. It's a work in progress. But right now, we can say from this we can somewhat understand what our fellow participant is feeling.
+Detecting hard (non temporary) changes in such pools of data might lead to many false positives. We still have to figure out how to combine some or all of this data to give coherent results. What score should we observe the trends of. This list hasn't been finalized. It's a work in progress. But right now, we can say from this we can somewhat understand what our fellow participant is feeling.
 
 # What next?
 
