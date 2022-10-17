@@ -20,7 +20,7 @@ But that's the problem, it is considered so far outside the technology domain th
 
 We don't know. Currently it's all a haze. And this is intended. Instead of using a technology or a known piece of knowledge and asking which problem can it solve, I think it's way more innovative to start with a problem domain and think how to solve it.
 
-One problem we found is the detection. Once depression is detected, it's often very late. Because once it is detected, we have a proper protocol to handle it, visits to a clinical psychiatrist, medication, etc. But the slip into depression isn't overnight. It happens slowly and gradually over a very long period of time.
+One problem we found is the detection. Once depression is detected, it's often very late. But once it is detected, we have a proper protocol to handle it, visits to a clinical psychiatrist, medication, etc. But the slip into depression isn't overnight. It happens slowly and gradually over a very long period of time.
 
 What if we could make something to detect this fall into the grey void. Some mechanism that can us, or the user can use to see their behavioral trendlines.
 
